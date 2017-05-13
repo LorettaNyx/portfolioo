@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+body, html{
+    width: 100%;
+    height: 100%;
+    /*font-family: 'Amatic SC', cursive;*/
+    /*font-family: 'Nothing You Could Do', cursive;*/
+    font-family: 'Underwood 1913';
+}
+@font-face {
+  font-family: 'Underwood 1913';
+  src: url('./assets/Underwood_Etendu_1913.eot') format('eot'), url('./assets/underwood_etendu_1913-webfont.woff') format('woff'),  url('./assets/underwood_etendu_1913-webfont.woff2') format('woff2');
+}
