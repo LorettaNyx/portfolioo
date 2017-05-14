@@ -17,13 +17,18 @@
     "typeRoots": [
       "../node_modules/@types"
     ],
+    "files": [
+      "app/main.ts",
+      "app/app.module.ts"
+    ],
     "include": [
-      "./app/app.component.ts",
-      "./app/app.module.ts",
-      "./app/home/home.component.ts"
+      "app/**/*.ts"
     ],
     "exclude": [
-      "node_modules"
+      "node_modules",
+      "dist",
+      "build",
+      "app/main.aot.ts"
     ]
   }
 }
