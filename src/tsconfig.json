@@ -27,8 +27,7 @@
     "exclude": [
       "node_modules",
       "dist",
-      "build",
-      "app/main.aot.ts"
+      "build"
     ]
   }
 }
