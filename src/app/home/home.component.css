@@ -1,5 +1,5 @@
-.main {
-        background: url(../../assets/images/277H.jpg) center fixed;
+div{
+        background: url('../../assets/images/277H.jpg') center fixed;
         background-size: cover;
         width: 100%;
         height: 100%;

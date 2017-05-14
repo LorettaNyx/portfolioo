@@ -16,18 +16,18 @@
     "target": "es5",
     "typeRoots": [
       "../node_modules/@types"
-    ],
-    "files": [
-      "app/main.ts",
-      "app/app.module.ts"
-    ],
-    "include": [
-      "app/**/*.ts"
-    ],
-    "exclude": [
-      "node_modules",
-      "dist",
-      "build"
     ]
   }
 }
+  //   "files": [
+  //     "app/main.ts",
+  //     "app/app.module.ts"
+  //   ],
+  //   "include": [
+  //     "app/**/*.ts"
+  //   ],
+  //   "exclude": [
+  //     "node_modules",
+  //     "dist",
+  //     "build"
+  //   ]

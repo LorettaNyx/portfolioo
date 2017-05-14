@@ -1,6 +1,6 @@
     @font-face {
     font-family: 'Underwood 1913';
-    src: url('../../assets/Underwood_Etendu_1913.TTF') format('truetype')
+    src: url('../../assets/Underwood_Etendu_1913.eot') format('eot')
 }
 div {
     position: fixed;
